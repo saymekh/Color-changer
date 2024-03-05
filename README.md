@@ -6,7 +6,7 @@ changes when hovering over the text.
 
 ## Demo 
 
-Click [here](https://saymekh.github.io/Color-changer/)
+Click [here](https://saymekh.github.io/Color-changer/) to test my site
 
 
 # Step-by-Step Instruction
