@@ -4,6 +4,10 @@
 This project demonstrates a simple hover effect where the background color 
 changes when hovering over the text.
 
+## Demo 
+
+Click [here](file:///Volumes/smeaks/tools%20and%20automation/assignments/assignment%203/index.html)
+
 
 # Step-by-Step Instruction
 
