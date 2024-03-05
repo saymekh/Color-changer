@@ -4,6 +4,11 @@
 This project demonstrates a simple hover effect where the background color 
 changes when hovering over the text.
 
+## Demo
+
+Click [here] (https://saymekh.github.io/Color-changer/)
+
+
 # Step-by-Step Instruction
 
 
