@@ -6,7 +6,7 @@ changes when hovering over the text.
 
 ## Demo 
 
-Click [here](file:///Volumes/smeaks/tools%20and%20automation/assignments/assignment%203/index.html)
+Click [here](https://saymekh.github.io/Color-changer/)
 
 
 # Step-by-Step Instruction
